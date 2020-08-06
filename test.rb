@@ -1,6 +1,6 @@
 class Test
  def printer
-  p "printer"
+  puts "printer"
  end
 end
 
